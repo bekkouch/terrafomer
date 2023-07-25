@@ -1,0 +1,14 @@
+.left-side{
+    border: 1px solid black;
+    height: 100%;
+    width: 100%;
+}
+.right-side{
+    border: 1px solid black;
+    height: 100%;
+    width: 100%;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+}
